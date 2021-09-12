@@ -7,6 +7,10 @@ namespace QuestionsGame.Dto
 {
     public class Answer
     {
+        public Answer()
+        {
+
+        }
         public string StamentAnswer { get; set; }
         public bool IsCorrect { get; set; }
 

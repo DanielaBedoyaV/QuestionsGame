@@ -1,10 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using QuestionsGame.Dto;
-using System;
+using Dto;
+using Services;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace QuestionsGame.Controllers
 {
@@ -20,18 +18,28 @@ namespace QuestionsGame.Controllers
             _logger = logger;
         }
 
-        [HttpGet]
-        public Question QuestionGet()
+        [HttpPost]
+        public Question QuestionPost(Question question)
         {
-            return new Question
-            
-            { StatementQuestion = "quien soy? ",
-                                  Answers = new List<Answer> {
-                                      new Answer { StamentAnswer = "gelipe",
-                                          IsCorrect = true 
-                                      } 
-                                  } 
-            };
+            QuestionServices questionServices = new QuestionServices();
+            questionServices.MapQuestion(question);
+            return question;
+        }
+
+        [HttpPost("CreateNewCategory")]
+        public Category CategoryQuestionsPost(Category category)
+        {
+            CategoryServices categoryServices = new CategoryServices();
+            categoryServices.SetNewCategory(category);
+            return category;
+        }
+
+        [HttpPost("Play")]
+        public Play PlayGamePost( Play play)
+        {
+            GameServices gameServices = new GameServices();
+            Play newPlay = gameServices.Play(play);
+            return newPlay;
         }
     }
 }

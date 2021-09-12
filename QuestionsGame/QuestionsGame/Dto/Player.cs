@@ -7,5 +7,7 @@ namespace QuestionsGame.Dto
 {
     public class Player
     {
+        public int Total { get; set; }
+        public string Name { get; set; }
     }
 }

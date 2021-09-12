@@ -1,0 +1,14 @@
+C:\proyectodani\QuestionsGame\QuestionsGame\Services\bin\Debug\netcoreapp3.1\Domain.dll
+C:\proyectodani\QuestionsGame\QuestionsGame\Services\obj\Debug\netcoreapp3.1\Services.csprojAssemblyReference.cache
+C:\proyectodani\QuestionsGame\QuestionsGame\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfoInputs.cache
+C:\proyectodani\QuestionsGame\QuestionsGame\Services\obj\Debug\netcoreapp3.1\Services.AssemblyInfo.cs
+C:\proyectodani\QuestionsGame\QuestionsGame\Services\bin\Debug\netcoreapp3.1\Services.deps.json
+C:\proyectodani\QuestionsGame\QuestionsGame\Services\bin\Debug\netcoreapp3.1\Services.dll
+C:\proyectodani\QuestionsGame\QuestionsGame\Services\bin\Debug\netcoreapp3.1\Services.pdb
+C:\proyectodani\QuestionsGame\QuestionsGame\Services\bin\Debug\netcoreapp3.1\Dto.dll
+C:\proyectodani\QuestionsGame\QuestionsGame\Services\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\proyectodani\QuestionsGame\QuestionsGame\Services\bin\Debug\netcoreapp3.1\Dto.pdb
+C:\proyectodani\QuestionsGame\QuestionsGame\Services\obj\Debug\netcoreapp3.1\Services.csproj.CoreCompileInputs.cache
+C:\proyectodani\QuestionsGame\QuestionsGame\Services\obj\Debug\netcoreapp3.1\Services.csproj.CopyComplete
+C:\proyectodani\QuestionsGame\QuestionsGame\Services\obj\Debug\netcoreapp3.1\Services.dll
+C:\proyectodani\QuestionsGame\QuestionsGame\Services\obj\Debug\netcoreapp3.1\Services.pdb

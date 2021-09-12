@@ -7,5 +7,7 @@ namespace QuestionsGame.Dto
 {
     public class GameHistory
     {
+        public Player Player { get; set; }
+        public Game Game { get; set; }
     }
 }

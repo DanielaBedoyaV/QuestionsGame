@@ -24,3 +24,16 @@ C:\proyectodani\QuestionsGame\QuestionsGame\QuestionsGame\bin\Debug\netcoreapp3.
 C:\proyectodani\QuestionsGame\QuestionsGame\QuestionsGame\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\proyectodani\QuestionsGame\QuestionsGame\QuestionsGame\obj\Debug\netcoreapp3.1\QuestionsGame.MvcApplicationPartsAssemblyInfo.cs
 C:\proyectodani\QuestionsGame\QuestionsGame\QuestionsGame\obj\Debug\netcoreapp3.1\QuestionsGame.csproj.CopyComplete
+C:\proyectodani\QuestionsGame\QuestionsGame\QuestionsGame\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\proyectodani\QuestionsGame\QuestionsGame\QuestionsGame\bin\Debug\netcoreapp3.1\Domain.dll
+C:\proyectodani\QuestionsGame\QuestionsGame\QuestionsGame\bin\Debug\netcoreapp3.1\Dto.dll
+C:\proyectodani\QuestionsGame\QuestionsGame\QuestionsGame\bin\Debug\netcoreapp3.1\Services.dll
+C:\proyectodani\QuestionsGame\QuestionsGame\QuestionsGame\bin\Debug\netcoreapp3.1\Services.pdb
+C:\proyectodani\QuestionsGame\QuestionsGame\QuestionsGame\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\proyectodani\QuestionsGame\QuestionsGame\QuestionsGame\bin\Debug\netcoreapp3.1\Dto.pdb
+C:\proyectodani\QuestionsGame\QuestionsGame\QuestionsGame\bin\Debug\netcoreapp3.1\files\26135caf-37f7-48b7-b8ab-b122ac2d4fce.json
+C:\proyectodani\QuestionsGame\QuestionsGame\QuestionsGame\bin\Debug\netcoreapp3.1\files\0ba61c34-3ddd-452f-88ff-4171d2401136.json
+C:\proyectodani\QuestionsGame\QuestionsGame\QuestionsGame\bin\Debug\netcoreapp3.1\files\10e55574-40d3-4e31-a529-9b10fb3d34d4.json
+C:\proyectodani\QuestionsGame\QuestionsGame\QuestionsGame\bin\Debug\netcoreapp3.1\files\10fb95c0-1667-422e-abb1-1db0f49c68d5.json
+C:\proyectodani\QuestionsGame\QuestionsGame\QuestionsGame\bin\Debug\netcoreapp3.1\files\7662eecd-8e05-4d55-a7cc-3656862f75e8.json
+C:\proyectodani\QuestionsGame\QuestionsGame\QuestionsGame\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

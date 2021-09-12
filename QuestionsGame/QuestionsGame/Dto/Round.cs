@@ -6,6 +6,14 @@ using System.Threading.Tasks;
 namespace QuestionsGame.Dto
 {
     public class Round
+
+
     {
+        public Round()
+        {
+
+        }
+        public Category Category { get; set; }
+        public Prize Prize { get; set; }
     }
 }

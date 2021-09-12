@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6hKlvWXrh2GploKEh5Pi1IduGgizparmQG3dlKemxYmR67SUYKmqVvhMO5DjGBaMvCU7qXGGlnNIEeeX39OIhw==",
+  "success": true,
+  "projectFilePath": "C:\\proyectodani\\QuestionsGame\\QuestionsGame\\Services\\Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pipe1\\.nuget\\packages\\csvhelper\\27.1.1\\csvhelper.27.1.1.nupkg.sha512",
+    "C:\\Users\\pipe1\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\pipe1\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

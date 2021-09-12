@@ -1,0 +1,9 @@
+C:\proyectodani\QuestionsGame\QuestionsGame\Dto\bin\Debug\netcoreapp3.1\Dto.deps.json
+C:\proyectodani\QuestionsGame\QuestionsGame\Dto\bin\Debug\netcoreapp3.1\Dto.dll
+C:\proyectodani\QuestionsGame\QuestionsGame\Dto\bin\Debug\netcoreapp3.1\Dto.pdb
+C:\proyectodani\QuestionsGame\QuestionsGame\Dto\obj\Debug\netcoreapp3.1\Dto.csprojAssemblyReference.cache
+C:\proyectodani\QuestionsGame\QuestionsGame\Dto\obj\Debug\netcoreapp3.1\Dto.AssemblyInfoInputs.cache
+C:\proyectodani\QuestionsGame\QuestionsGame\Dto\obj\Debug\netcoreapp3.1\Dto.AssemblyInfo.cs
+C:\proyectodani\QuestionsGame\QuestionsGame\Dto\obj\Debug\netcoreapp3.1\Dto.csproj.CoreCompileInputs.cache
+C:\proyectodani\QuestionsGame\QuestionsGame\Dto\obj\Debug\netcoreapp3.1\Dto.dll
+C:\proyectodani\QuestionsGame\QuestionsGame\Dto\obj\Debug\netcoreapp3.1\Dto.pdb

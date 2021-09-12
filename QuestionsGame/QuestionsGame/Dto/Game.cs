@@ -7,5 +7,6 @@ namespace QuestionsGame.Dto
 {
     public class Game
     {
+        public List<Round> Rounds { get; set; }
     }
 }
